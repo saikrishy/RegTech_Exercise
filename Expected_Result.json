@@ -1,0 +1,13 @@
+{
+        "name": "Derivative_Data",
+        "data": [
+                {
+                        "id": "swap_1",
+                        "EAD": 500.0
+                },
+                {
+                        "id": "swap_2",
+                        "EAD": 1925.0
+                }
+        ]
+}
